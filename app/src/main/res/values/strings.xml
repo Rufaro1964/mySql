@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mySql</string>
+    <string name="textview">username</string>
+    <string name="password">password</string>
+    <string name="btnlogin">login</string>
+</resources>
